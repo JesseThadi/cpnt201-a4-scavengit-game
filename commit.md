@@ -24,3 +24,6 @@
 
 # Commit 9
 - Merge Conflict [ce5c948] (https://github.com/boostha/cpnt201-a4-david/commit/ce5c94820e6816a19b42759b13580df7ecc169e5)
+
+# Commit 10
+- Delete .gitignore file [0e74966] (https://github.com/JesseThadi/cpnt201-a4-scavengit-game/commit/2e29138aeda685aa44cd7e0fbc3c7ef2763e687e)
